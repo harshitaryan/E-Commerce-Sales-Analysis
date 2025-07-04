@@ -192,3 +192,9 @@ This CSV to MySQL importer provides a robust, automated solution for bulk data i
 The script's modular design allows for easy customization and extension, making it adaptable to various data import scenarios beyond the default e-commerce use case. Regular monitoring of the debug output ensures data quality and helps identify potential issues early in the import process.
 
 For production use, consider adding additional error handling, logging mechanisms, and performance optimizations based on your specific data volume and requirements.
+
+## License
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
