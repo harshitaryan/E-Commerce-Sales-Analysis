@@ -11,6 +11,8 @@ The data is available in 8 csv files:
   - orders.csv
   - products.csv
 
+Access files: [Here](https://www.kaggle.com/datasets/devarajv88/target-dataset)
+
 **Dataset Schema**
 
 ![Alt text](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15074417%2Fb15a300fe807965428250762308c248b%2FUntitled.png?generation=1716400390272599&alt=media)
