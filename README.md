@@ -17,7 +17,7 @@ This dataset focuses on Target's operations in Brazil, covering 100,000 orders p
 - Jupyter
 
 ## 🚀 Getting Started
-# CSV to MySQL Importer[📎](csv_mysql_importer.py)
+# [📎](csv_mysql_importer.py)CSV to MySQL Importer
 A Python utility for automated bulk import of CSV files into MySQL database tables with intelligent data type mapping and error handling.
 
 ## Table of Contents
