@@ -1,8 +1,8 @@
 # Ecommerce-Project
-## Objective
+## 🌟 Objective
 The goal is to investigate and summarize data to uncover patterns, identify anomalies, and understand the relationships between variables. This involves summarizing the main characteristics of the data, such as its type and distribution, examines  individual variables to understand their distributions, identify outliers that may require further investigation, trends, and other meaningful patterns, and assess data quality, and  investigates relationships between variables, looking for correlations and potential dependencies.
 
-## Description
+## 📖 Description
 This dataset focuses on Target's operations in Brazil, covering 100,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews. Analyzing this dataset offers valuable insights, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
 
 ## 💻 Techniques & Technology
