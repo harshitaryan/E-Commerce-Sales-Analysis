@@ -1,4 +1,4 @@
-# Ecommerce Sales Analysis
+# E-Commerce Sales Analysis
 ## 🌟 Objective
 The goal is to investigate and summarize data to uncover patterns, identify anomalies, and understand the relationships between variables. This involves summarizing the main characteristics of the data, such as its type and distribution, examines  individual variables to understand their distributions, identify outliers that may require further investigation, trends, and other meaningful patterns, and assess data quality, and  investigates relationships between variables, looking for correlations and potential dependencies.
 
