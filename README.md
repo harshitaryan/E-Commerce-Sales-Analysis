@@ -50,7 +50,8 @@ This utility automates the process of importing multiple CSV files into a MySQL 
 
 ### Python Dependencies
 ```bash
-pip install pandas mysql-connector-python
+pip install mysql-connector-python
+pip install python-dotenv
 ```
 
 ### Database Setup
