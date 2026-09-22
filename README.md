@@ -48,6 +48,9 @@ This utility automates the process of importing multiple CSV files into a MySQL 
 - Python 3.7+
 - MySQL Server 5.7+ or MySQL 8.0+
 
+Create virtual environment .venv
+Store credentials in .env file
+
 ### Python Dependencies
 ```bash
 pip install mysql-connector-python
